@@ -114,3 +114,73 @@ input {
     padding: 7px;
     border-right: 1px solid #BB1919;
 }
+
+#main-container {
+    width: 950px;
+    margin: 0 auto;
+}
+
+#main-content {
+    width: 70%;
+    float: left;
+}
+
+#main-content h3 {
+    border-bottom: 2px solid #BB1919;
+    display: block;
+    float: left;
+}
+#right-widget {
+    width: 29%;
+    float: right;
+}
+
+#article-text {
+    width: 40%;
+    float: left;
+    color: gray;
+}
+
+#article-text span {
+    color: #BB1919;
+}
+
+#article-image {
+    width: 59%;
+    float: right;
+}
+
+#article-image img {
+    width: 100%;
+}
+
+.article-link {
+    color: #000000;
+}
+
+.article-timestamp {
+    font-size: .9rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.9rem;
+}
+
+#right-widget li {
+    list-style-type: none;
+}
+
+.watch-img {
+    width: 39%;
+    float: left;
+}
+.watch-text {
+    width: 57%;
+    float: right;
+}
+
+.watch-text span {
+    color: gray;
+    font-size: .9rem;
+}
