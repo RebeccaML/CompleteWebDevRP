@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+#time {
+    font-weight: bold;
+}
+
+#shape {
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: none;
+    position: relative;
+}
